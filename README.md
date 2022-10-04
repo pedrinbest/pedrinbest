@@ -3,6 +3,7 @@
   <a href="https://github.com/pedrinbest">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrinbest&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinbest&langs_count=7&theme=midnight-purple&locale=pt-br"/>
+  <img height="180em" src="https://github.com/pedrinbest/github-readme-stats-pedrin/blob/6237abd42806a158272e73d4e2febab39dd3df92/api/top-langs.js/?username=pedrinbest&hide=javascript,html&langs_count=7&theme=midnight-purple&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="pedrin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
