@@ -27,7 +27,9 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/pedrinbest/pedrinbest/blob/450f3b5f29ff8ef55fc9e85c99aa8614d323dfea/github-contribution-grid-snake.svg)
- 
+   <video width="400" controls autoplay>
+      <source src="mov1.mov" type="video/mp4">
+  </video>
 </div>
   
   ##
