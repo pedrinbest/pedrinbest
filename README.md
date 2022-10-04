@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/pedro-lucas-20170b220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/pedrinbest/pedrinbest/blob/5b926c1d8e087967c774c45db5e0cf1118e91a74/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pedrinbest/pedrinbest/blob/450f3b5f29ff8ef55fc9e85c99aa8614d323dfea/github-contribution-grid-snake.svg)
  
 </div>
   
