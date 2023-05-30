@@ -34,3 +34,17 @@
   
   ##
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3E+Developer+Pleno)](https://git.io/typing-svg)
+>Projetos Concluidos
+  # Auth Facial [Camys]
+
+<p align="center">
+  <img src="https://github.com/pedrinbest/camysAuth/raw/Camys/camys.gif" alt="Logo do Projeto" width="200" height="200">
+</p>
+
+> - **Reconhecimento Facial:** Utilize algoritmos avançados de reconhecimento facial para identificar indivíduos com base em suas características faciais.
+> - **Controle de Acesso Seguro:** Garanta que apenas pessoas autorizadas possam acessar áreas ou recursos restritos.
+> - **Autenticação Conveniente:** Proporcione uma experiência de autenticação sem atritos para os usuários, eliminando a necessidade de métodos tradicionais de controle de acesso, como cartões-chave ou senhas.
+> - **Monitoramento em Tempo Real:** Monitore e acompanhe os registros de acesso e as atividades das pessoas em tempo real.
+> - **Integração:** Integre perfeitamente a Autenticação Facial com sistemas de controle de acesso existentes ou infraestrutura de segurança.
+<a href="https://github.com/pedrinbest/camysAuth" target="_blank"><img src="https://img.shields.io/badge/Click%20para%20saber%20mais-Aqui-green" target="_blank"></a> 
+
