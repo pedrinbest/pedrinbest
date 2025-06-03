@@ -33,7 +33,7 @@
 </div>
   
   ##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3E+Developer+Pleno)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3E+Developer+Senior)](https://git.io/typing-svg)
 >Projetos Concluidos
   # Auth Facial [Camys]
 
